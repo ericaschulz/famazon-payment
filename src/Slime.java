@@ -35,6 +35,11 @@ public class Slime {
             System.out.println(friends[counter] + "JUST GOT SLIMED!!");
         } //end for
         String[] pirates = {
+                "Captain Jack Sparrow",
+                "Blackbeard",
+                "Captain Hook",
+                "Captain Morgan",
+                "Captain Crunch",
 
         };
     }
